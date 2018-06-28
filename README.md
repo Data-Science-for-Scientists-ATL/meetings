@@ -4,6 +4,7 @@
   - https://github.com/Data-Science-for-Scientists-ATL/meeting-2018-06-27
 
 * 2016-06-04: Transitioning from Academia to the Commercial Domain -- Jeff Kolve, eHire
+  - https://github.com/Data-Science-for-Scientists-ATL/meeting-2018-06-04
 
 * 2018-04-30: discussed goals for group + interactive scientific computing. Jupyter notebook demos from Jeremy Jacobson, Elyse Morin and Rett Morrisette.
   - https://github.com/Data-Science-for-Scientists-ATL/meeting-2018-04-30
