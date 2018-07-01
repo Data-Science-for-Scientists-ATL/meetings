@@ -16,6 +16,7 @@
   - https://github.com/Data-Science-for-Scientists-ATL/data-mining-biomedical
 
 * 2017-11-20: SQL -- Lukas Hoffman
+  - https://github.com/Data-Science-for-Scientists-ATL/SQL-resources
 
 * 2017-10-16: Data Science Career Panel
   - with Emory and GT Alumni
