@@ -1,9 +1,22 @@
 # meetings
 
-* 2016-06-27: Quick and Easy Data Science Websites -- David Nicholson. group business: Software Carpentry
+* 2018-10-15: Pseudoreplication: How To Avoid It In Experimental Design and Analysis -- Desiree DeLeón
+  - https://github.com/Data-Science-for-Scientists-ATL/meeting-2018-10-15
+  - https://github.com/Data-Science-for-Scientists-ATL/Pseudoreplication
+
+* 2018-09-24: Biomedical Data Science -- Christian McDaniel and Andrew Durden from Quinn lab, UGA
+  - https://github.com/Data-Science-for-Scientists-ATL/meeting-09-24
+
+* 2018-08-28: Kaggle: the good, the bad, the code -- Varun Saravanan
+  - https://github.com/Data-Science-for-Scientists-ATL/meeting-2018-08-28
+
+* 2018-08-07: Interactive visualization with R tutorial -- Trent Ryan
+  - https://data-science-for-scientists-atl.github.io/where-are-iranians-in-america-and-good-iranian-food-interactive-visualization-tutorial-from-trent-ryan.html
+
+* 2018-06-27: Quick and Easy Data Science Websites -- David Nicholson. group business: Software Carpentry
   - https://github.com/Data-Science-for-Scientists-ATL/meeting-2018-06-27
 
-* 2016-06-04: Transitioning from Academia to the Commercial Domain -- Jeff Kolve, eHire
+* 2018-06-04: Transitioning from Academia to the Commercial Domain -- Jeff Kolve, eHire
   - https://github.com/Data-Science-for-Scientists-ATL/meeting-2018-06-04
 
 * 2018-04-30: discussed goals for group + interactive scientific computing. Jupyter notebook demos from Jeremy Jacobson, Elyse Morin and Rett Morrisette.
